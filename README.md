@@ -6,6 +6,7 @@ Instructions:
 1. Download the current repository as a folder of files 
 2. On terminal, navigate to the folder and then run: pip install -r requirements.txt
 3. Run the following two jupyter notebook files:
-a. Data Analysis Report Codes.ipynb -- this notebook is the main one that contains the main content
-b. Mutual_Information_Calculation.ipynb -- this notebook is only for the calculation of mutual information between the features and the goal variable. It was used as a final project assignment for IL181: Information Theory Tutorial Class in Minerva University. Only look for reference.
+
+A. Data Analysis Report Codes.ipynb -- this notebook is the main one that contains the main content
+B. Mutual_Information_Calculation.ipynb -- this notebook is only for the calculation of mutual information between the features and the goal variable. It was used as a final project assignment for IL181: Information Theory Tutorial Class in Minerva University. Only look for reference.
 
