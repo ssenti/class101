@@ -6,6 +6,6 @@ Crimson Kim <br />
 Capstone Project: Minerva University X Class101
 
 Instructions: 
-1. Download the current repository as a folder of files 
+1. Download the current repository as a folder
 2. On terminal, navigate to the folder and then run: pip install -r requirements.txt
-3. Run all cells on Data Analysis Report Codes.ipynb
+3. Then run all cells on Data Analysis Report Codes.ipynb
