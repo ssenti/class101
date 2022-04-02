@@ -2,7 +2,7 @@
 
 [Link to Data Analysis Report on Notion](https://www.notion.so/Capstone-Data-Analysis-Report-Discovering-User-Features-That-Contribute-The-Most-To-Their-Repurch-337eef489a33453f956c499437de0fa4).
 
-Crimson Kim <br />
+Crimson (Jin Hong) Kim <br />
 Capstone Project: Minerva University X Class101
 
 Instructions: 
